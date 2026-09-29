@@ -1,0 +1,22 @@
+p{
+    font-family: sans-serif;
+    text-align: center
+}
+h1{
+    font-family: cursive;
+    font-size: 100px;
+    text-align: center;
+}
+h3{
+    font-family: cursive;
+    font-size: 40px;
+    text-align: center;
+}
+body{
+    background-color: rgb(255, 223, 239);
+}
+
+img{
+    width: 300px;
+    height: auto; 
+}
